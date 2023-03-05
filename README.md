@@ -1,5 +1,6 @@
 # Ubuntu-Mate-on-Raspberry-Pi-4
-Enjoy Ubuntu MATE on your Raspberry pi 4! hanks for reading.
+Enjoy Ubuntu MATE on your Raspberry Pi 4
+Thanks for reading.
 
 Installing the MATE Desktop
 
