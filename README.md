@@ -8,5 +8,5 @@ On initial boot, you will be required to log in using the username ubuntu, and p
 
 Now to install the MATE desktop environment in the following command in the terminal:
 
-$ sudo apt install ubuntu-mate-desktop
+$ sudo apt install ubuntu-mate-desktop.
 $ sudo reboot
